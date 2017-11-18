@@ -25,7 +25,7 @@ SECRET_KEY = 'cp_*x(*^_se^e8r^@^mpq%v99b+y1hdl@v)kjk17&s_21der8z'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<lulypie>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'lulypie.pythonanywhere.com']
 
 
 # Application definition
